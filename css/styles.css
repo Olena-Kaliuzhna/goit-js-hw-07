@@ -26,6 +26,7 @@ img {
 
 .task-list a {
   text-decoration: none;
+  text-transform: uppercase;
 }
 
 .main-link {
@@ -35,6 +36,7 @@ img {
   margin: 20px auto;
   color: #d5c812;
   border: 3px solid #8a7ae4;
+  border-radius: 10px;
   text-align: center;
   background-color: #6712d5;
   text-decoration: none;
